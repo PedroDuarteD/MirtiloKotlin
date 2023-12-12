@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MirtiloApp</string>
+    <string-array name="mirtilos">
+        <item>Mirtilo A</item>
+        <item>Mirtilo B</item>
+    </string-array>
+
+
+    <string-array name="recetores">
+        <item>VougaFruits</item>
+        <item>Outros</item>
+    </string-array>
+
+
+</resources>
